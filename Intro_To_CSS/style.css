@@ -1,0 +1,18 @@
+p{
+    /* color: red; */
+    color: red;
+}
+p{
+    background-color: white;
+}
+article{
+    background-color: #6AC47E;
+}
+aside
+{
+    background-color: #FF6666;
+}
+.arti{
+    text-transform: uppercase;
+    font-family: cursive;
+}
